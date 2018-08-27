@@ -1,5 +1,8 @@
 Cold and Dry!
 The two moons may be a problem for Wolfman
 The mummy will appreciate the lack of humidity
+<<<<<<< HEAD
+this is a different line added
+=======
 This is a new line in ym2540's copy
 I'm creating conflict for you by adding another line.
